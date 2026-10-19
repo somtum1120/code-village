@@ -1,4 +1,4 @@
-# Production Audio
+# 本番音源
 
 本番 BGM / SE / ambient sound はこの配下に配置します。
 

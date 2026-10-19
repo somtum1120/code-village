@@ -1,17 +1,17 @@
-# Artifacts
+# 生成物
 
-Keep generated outputs and deliverables here.
+生成出力と納品物をここに置きます。
 
-## Screenshots
+## スクリーンショット
 
-Regenerate the MVP set with:
+MVP セットは次で再生成します:
 
 ```bash
 python3 tools/capture_mvp_screenshots.py
 ```
 
-- `screenshots/mvp-initial.png`: Godot runtime capture of the initial village screen with onboarding/repo registration panel.
-- `screenshots/mvp-settings.png`: Settings panel review capture. Uses QA env and does not show a real local repo path.
-- `screenshots/mvp-registered.png`: Registered optional Git repo display review with a synthetic demo repo name.
-- `screenshots/mvp-grown.png`: Synthetic grown-state capture showing manifest-driven state overlays. Uses dummy placeholder assets.
-- `screenshots/mvp-growth-effect.png`: Runtime capture of Claude Code session/turn events showing transient workshop and flower effects. Extracted from an AVI middle frame so the short effects are visible.
+- `screenshots/mvp-initial.png`: onboarding / repo 登録 panel を含む初期村画面の Godot runtime capture。
+- `screenshots/mvp-settings.png`: Settings panel の review capture。QA env を使い、実ローカル repo path は表示しません。
+- `screenshots/mvp-registered.png`: 合成 demo repo 名を使った、任意登録 Git repo 表示の review。
+- `screenshots/mvp-grown.png`: manifest-driven state overlay を示す合成 grown-state capture。dummy placeholder assets を使います。
+- `screenshots/mvp-growth-effect.png`: Claude Code session / turn event による一時的な工房と花 effect を示す runtime capture。短い effect が見えるよう AVI の中間 frame から抽出しています。

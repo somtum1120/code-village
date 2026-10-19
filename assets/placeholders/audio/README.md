@@ -1,4 +1,4 @@
-# Placeholder Audio
+# 仮音源
 
 このディレクトリは将来の BGM / SE / ambient sound 用の placeholder 置き場です。
 

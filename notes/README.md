@@ -1,4 +1,4 @@
-# Notes
+# メモ
 
-Keep investigation notes and supporting material here.
+調査メモと補助資料をここに置きます。
 

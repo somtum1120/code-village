@@ -1,4 +1,4 @@
-# Placeholder Assets
+# 仮素材
 
 このディレクトリの素材はすべて Functional MVP 用のダミー素材です。
 
